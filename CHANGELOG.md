@@ -4,3 +4,4 @@
 - Agregado de los integrantes del grupo en el notebook
 - Invitación y configuración de colaboradores en el repositorio
 - Verificación del funcionamiento del control de versiones
+- Realizacion de ejercicios 1 y 2
