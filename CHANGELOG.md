@@ -19,3 +19,22 @@
 - Creación de la columna exceso_velocidad
 - Eliminación de registros sin infracción
 - Generación del dataset limpio y almacenamiento en la carpeta interim
+
+## Día 3 - Análisis y visualización de datos
+- Implementación de la clase FineAnalyzer para encapsular el DataFrame limpio
+- Desarrollo de métodos para análisis de multas:
+  - Ranking de patentes más multadas
+  - Ranking de horarios con mayor cantidad de infracciones
+  - Cálculo del exceso promedio de velocidad
+  - Cálculo del exceso real promedio de velocidad
+  - Conteo de multas por ubicación
+- Creación de instancia de la clase y ejecución de cada método en celdas separadas
+
+- Generación de visualizaciones:
+  - Gráfico de barras del ranking de las 10 patentes más reincidentes
+  - Gráfico de torta del porcentaje de infracciones por hora (agrupadas correctamente)
+  - Gráfico de barras horizontal de infracciones por mes (excluyendo fechas inválidas)
+  - Gráfico de líneas del exceso promedio de velocidad por hora (agrupado por hora)
+  - Gráfico de líneas del exceso promedio de velocidad por fecha (filtrado y suavizado)
+
+- Exportación de todos los gráficos en la carpeta urban_flow/data/interim/plots
