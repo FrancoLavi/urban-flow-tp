@@ -38,3 +38,11 @@
   - Gráfico de líneas del exceso promedio de velocidad por fecha (filtrado y suavizado)
 
 - Exportación de todos los gráficos en la carpeta urban_flow/data/interim/plots
+
+## Día 4 - Interpretación y conclusiones
+- Análisis de los resultados obtenidos a partir de los gráficos
+- Identificación de patrones en las infracciones (patentes reincidentes, horarios y distribución temporal)
+- Detección de sesgos en los datos debido a valores imputados (1932-01-01 y 00:00)
+- Evaluación de la calidad de los datos originales y su impacto en el análisis
+- Redacción de la conclusión final del dataset
+- Incorporación de la conclusión en el archivo README.md
