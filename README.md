@@ -54,24 +54,6 @@ El enfoque principal del proyecto es aplicar buenas prácticas de programación,
 - Generación del dataset `speeding_fines_image.csv`.
 
 ---
-
-# Estructura del proyecto
-
-```text
-urban-flow-tp/
-│
-├── README.md
-├── CHANGELOG.md
-├── notebook.ipynb
-│
-└── urban_flow/
-    └── data/
-        ├── raw/
-        ├── interim/
-        │   └── plots/
-        └── processed/
-```
-
 ---
 
 # Cómo ejecutar
@@ -98,12 +80,4 @@ urban_flow/data/processed/
 - OCR
 - Google Colab
 - Git y GitHub
-
 ---
-
-# Integrantes
-
-- Franco Lavirgen
-- Matías
-- Juani
-- Angelo
